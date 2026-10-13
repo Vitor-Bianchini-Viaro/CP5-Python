@@ -1,0 +1,30 @@
+[
+    {
+        "servico": "Login",
+        "descricao": "Clientes não conseguem entrar; erro 500 após inserir a senha",
+        "prioridade": "alta",
+        "status": "aberto",
+        "proxima_acao": "Verificar logs do servidor de autenticação e reiniciar o serviço"
+    },
+    {
+        "servico": "Relatorio",
+        "descricao": "Relatório de vendas demora mais de 2 minutos para carregar",
+        "prioridade": "baixa",
+        "status": "aberto",
+        "proxima_acao": "Revisar a consulta de vendas do mês"
+    },
+    {
+        "servico": "Pagamento",
+        "descricao": "Pagamento via cartão falhava ao finalizar o pedido",
+        "prioridade": "alta",
+        "status": "resolvido",
+        "proxima_acao": "nenhuma"
+    },
+    {
+        "servico": "Checkout",
+        "descricao": "Cálculo do frete exibe valor zero para pedidos acima de R$200",
+        "prioridade": "media",
+        "status": "aberto",
+        "proxima_acao": "Conferir a regra de frete grátis e corrigir o limite"
+    }
+]

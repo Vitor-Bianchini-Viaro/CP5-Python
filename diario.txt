@@ -1,0 +1,4 @@
+Login — Reinício do serviço testado sem sucesso
+Pagamento — Gateway de cartão trocado para o ambiente de contingência
+Checkout — Regra de frete analisada; suspeita no limite de valor
+Login — Reinicio do serviõ testado com sucesso

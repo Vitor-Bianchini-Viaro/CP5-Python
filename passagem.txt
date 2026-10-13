@@ -1,0 +1,20 @@
+PASSAGEM DE PLANTÃO - Loja Virtual MiniShop
+Ocorrências abertas: 3
+Abertas com prioridade alta: 1
+
+Pendências:
+
+Serviço: Login
+Descrição: Clientes não conseguem entrar; erro 500 após inserir a senha
+Prioridade: alta
+Próxima ação: Verificar logs do servidor de autenticação e reiniciar o serviço
+
+Serviço: Relatorio
+Descrição: Relatório de vendas demora mais de 2 minutos para carregar
+Prioridade: baixa
+Próxima ação: Revisar a consulta de vendas do mês
+
+Serviço: Checkout
+Descrição: Cálculo do frete exibe valor zero para pedidos acima de R$200
+Prioridade: media
+Próxima ação: Conferir a regra de frete grátis e corrigir o limite
